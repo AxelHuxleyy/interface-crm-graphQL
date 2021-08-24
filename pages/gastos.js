@@ -104,7 +104,7 @@ const Gasto = () => {
                 </div>
                 <div className="bg-red-800 rounded-lg h-56 w-auto m-5">
                     <h1 className="text-2xl text-center font-light mt-2 text-white"></h1>
-                    <h1 className="text-2xl text-center font-light mt-2 text-white">Gastos</h1>
+                    <h1 className="text-2xl text-center font-light mt-2 text-white">Gastos </h1>
 
                     <p className="text-6xl text-center font-light mt-2 mx-3 text-white">${obtenerTotalGastoTienda}</p>
 
